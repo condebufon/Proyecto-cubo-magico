@@ -1,15 +1,14 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=300px height=200px src="/assets/img/Logo.png" alt="INTER - Escuela Internacional de Estudios Superiores"></a>
-</p>
+ </p>
 
 <h1 align="center">Clase de Estructuras de Datos</h1>
 <h3 align="center">Profesor: <a href="https://github.com/JuanS3">Sebastián Martínez</a></h3>
+<h3 align="center">Alumno: <a href="https://github.com/JuanS3">Andres javier martinez</a></h3>
 
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=300px height=150px src="/assets/img/esda.png" alt="Estructuras de datos"></a>
 </p>
 
 ---
@@ -88,4 +87,4 @@ python magic.py
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@JuanS3](https>//github.com/condebufon) - Idea & Initial work
+- [@condebufon](https>//github.com/condebufon) - Idea & Initial work

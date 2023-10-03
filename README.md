@@ -88,4 +88,6 @@ python magic.py
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@condebufon](https>//github.com/condebufon) - Idea & Initial work
+- [@condebufon](https>//github.com/condebufon) 
+- [@ctrljason](https>//github.com/ctrljason)  
+- [@ctrljason](https>//github.com/dmalon)

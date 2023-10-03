@@ -4,8 +4,9 @@
 
 <h1 align="center">Clase de Estructuras de Datos</h1>
 <h3 align="center">Profesor: <a href="https://github.com/JuanS3">Sebastián Martínez</a></h3>
-<h3 align="center">Alumno: <a href="https://github.com/JuanS3">Andres javier martinez</a></h3>
-
+<h3 align="center">Alumno: <a href="https://github.com/condebufon">Andres javier martinez</a></h3>
+<h3 align="center">Alumno: <a href="https://github.com/Ctrljason">yeison mosquera murillo</a></h3>
+<h3 align="center">Alumno: <a href="https://github.com/dmalagon">david malagon Garcia</a></h3>
 
 <p align="center">
   <a href="" rel="noopener">
